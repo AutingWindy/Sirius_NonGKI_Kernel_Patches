@@ -1,4 +1,4 @@
-name: Build Xiaomi 8 SE (Sirius) (MIUI A10)
+name: Build Xiaomi 8 SE (MIUI A10)
 
 on:
   workflow_call:
