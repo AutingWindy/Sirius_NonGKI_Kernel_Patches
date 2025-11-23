@@ -15,7 +15,7 @@ env:
   KERNEL_SOURCE : "https://github.com/Lyxot/sirius_Kernel.git"
   KERNEL_BRANCH : "sirius-q-oss"
 
-  CLANG_SOURCE : "https://github.com/llvm/llvm-project/releases/download/llvmorg-21.1.6/LLVM-21.1.6-Linux-X64.tar.xz"
+  CLANG_SOURCE : "https://github.com/kdrag0n/proton-clang/archive/refs/tags/20210522.zip"
   CLANG_BRANCH : ""
 
   GCC_GNU : true
